@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab</h1>
-<h3 align="center">A Java developer</h3>
+<h3 align="center">A Java Developer</h3>
 
 - 🌱 I’m currently learning **Java**
 
