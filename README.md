@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **arnabsarma29@outlook.com**
+- 📄 Know about my experiences **[View Resume](https://github.com/arnabsarma-29/arnabsarma-29/blob/main/Resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
